@@ -1,0 +1,9 @@
+//***************************************
+// Grand Merchant
+//***************************************
+Grants easy access to all items via Merchant Kale. Everything is craftable for free.
+
+Can be used to mess about, to quickly obtain certain items, etc.
+
+WARNING: you will almost certainly be banned if you play online with the mod active.
+
